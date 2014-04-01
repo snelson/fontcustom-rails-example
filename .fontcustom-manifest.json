@@ -1,0 +1,48 @@
+{
+  "checksum": {
+    "previous": "48a515a654761644852c8b2421a8a7e8b46aa89e7bd10c97ea62de7e798158a6",
+    "current": "48a515a654761644852c8b2421a8a7e8b46aa89e7bd10c97ea62de7e798158a6"
+  },
+  "fonts": [
+    "app/assets/fonts/icons.ttf",
+    "app/assets/fonts/icons.svg",
+    "app/assets/fonts/icons.woff",
+    "app/assets/fonts/icons.eot"
+  ],
+  "glyphs": {
+    "arrow-down": {
+      "codepoint": 61696,
+      "source": "app/assets/icons/arrow-down.svg"
+    },
+    "arrow-up": {
+      "codepoint": 61697,
+      "source": "app/assets/icons/arrow-up.svg"
+    }
+  },
+  "options": {
+    "autowidth": false,
+    "config": "config/fontcustom.yml",
+    "css_selector": ".icon-{{glyph}}",
+    "debug": false,
+    "font_name": "icons",
+    "force": true,
+    "input": {
+      "templates": "app/assets/icons",
+      "vectors": "app/assets/icons"
+    },
+    "no_hash": true,
+    "output": {
+      "css": "app/assets/stylesheets",
+      "fonts": "app/assets/fonts",
+      "preview": "app/assets/fonts"
+    },
+    "preprocessor_path": "",
+    "quiet": false,
+    "templates": [
+      "scss"
+    ]
+  },
+  "templates": [
+    "app/assets/stylesheets/_icons.scss"
+  ]
+}

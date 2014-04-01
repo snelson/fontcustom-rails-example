@@ -1,0 +1,33 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<!--
+2014-4-1: Created.
+-->
+<svg xmlns="http://www.w3.org/2000/svg">
+<metadata>
+Created by FontForge 20120731 at Tue Apr  1 09:23:03 2014
+ By Scott Nelson
+Created by Scott Nelson with FontForge 2.0 (http://fontforge.sf.net)
+</metadata>
+<defs>
+<font id="icons" horiz-adv-x="512" >
+  <font-face 
+    font-family="icons"
+    font-weight="500"
+    font-stretch="normal"
+    units-per-em="512"
+    panose-1="2 0 6 9 0 0 0 0 0 0"
+    ascent="448"
+    descent="-64"
+    bbox="14.6406 -49.3594 497.359 396.8"
+    underline-thickness="25.6"
+    underline-position="-51.2"
+    unicode-range="U+F100-F101"
+  />
+    <missing-glyph />
+    <glyph glyph-name="uniF100" unicode="&#xf100;" 
+d="M256 -49.3594l-241.359 241.359h482.719zM256 -49.3594zM156.038 89.5996v307.2h199.924v-307.2h-199.924zM156.038 89.5996z" />
+    <glyph glyph-name="uniF101" unicode="&#xf101;" 
+d="M362.482 207.059h-212.965l106.482 106.482zM362.482 207.059zM301.177 86.5879h-90.3535v120.471h90.3535v-120.471zM301.177 86.5879z" />
+  </font>
+</defs></svg>
