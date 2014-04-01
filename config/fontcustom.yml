@@ -3,7 +3,7 @@ css_selector: .icon-{{glyph}}
 preprocessor_path: ""
 autowidth: false
 no_hash: true
-force: true
+force: false
 debug: false
 quiet: false
 
